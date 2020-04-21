@@ -1,0 +1,7 @@
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+data/
+venv/
+downloads/
+final_project/
